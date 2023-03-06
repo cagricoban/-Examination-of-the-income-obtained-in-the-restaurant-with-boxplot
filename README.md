@@ -20,4 +20,4 @@
 * time:when?(0=Day,1=Night)
 ----------------------------------------------------------------------
 
-![Açıklama](link) 
+![Restourant](https://github.com/cagricoban/-Examination-of-the-income-obtained-in-the-restaurant-with-boxplot/blob/master/image/restourant.png) 
